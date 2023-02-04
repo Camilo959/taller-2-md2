@@ -1,0 +1,15 @@
+# Grafo Ponderado No 005 Gr 0001
+# Matematicas Discretas II 2022
+# JAPeTo
+A B 1
+A C 2
+A F 5
+B C 2
+C E 4
+D B 2
+E A 8
+F G 2
+G A 4
+G H 1
+H I 4
+I G 5

@@ -1,0 +1,15 @@
+# Grafo Dirigido No 007 Gr 0001
+# Matematicas Discretas II 2022
+# JAPeTo
+A B 3
+A E 10
+A F 2
+B C 8 
+C E 7
+D B 1
+E A 2
+F G 8
+G A 5
+H G 3 
+H I 4
+I G 5

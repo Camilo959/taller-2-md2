@@ -1,0 +1,7 @@
+# Grafo No 004 Gr 0001
+# Matematicas Discretas II 2022
+# JAPeTo
+A B 2
+B D 8
+C B 5
+D A 1
